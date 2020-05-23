@@ -12,3 +12,4 @@ The wallmount for the iMax B6 battery charger consist of a single part that is s
 
 #### View
 ![Example](Iso1.jpg)
+![Example](image1.jpg)
