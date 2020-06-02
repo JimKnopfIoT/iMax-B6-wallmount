@@ -11,5 +11,5 @@ The wallmount for the iMax B6 battery charger consist of a single part that is s
 * Screw and Dowel
 
 #### View
-![Example](Iso1.jpg)
-![Example](image1.jpg)
+<img src="Iso1.jpg" width="500" align="center"> 
+<img src="image1.jpg" width="500" align="center"> 
